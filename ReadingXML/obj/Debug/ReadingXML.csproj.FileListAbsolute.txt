@@ -1,0 +1,10 @@
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\bin\Debug\ReadingXML.exe.config
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\bin\Debug\ReadingXML.exe
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\bin\Debug\ReadingXML.pdb
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csprojResolveAssemblyReference.cache
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.Form1.resources
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.Properties.Resources.resources
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csproj.GenerateResource.cache
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csproj.CoreCompileInputs.cache
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.exe
+C:\Users\seraph\source\repos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.pdb
